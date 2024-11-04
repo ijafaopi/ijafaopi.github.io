@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ijafaopi.github.io/Net/sitemap_index.txt
+Sitemap: https://ijafaopi.github.io/RBD/sitemap_index.txt
+Sitemap: https://ijafaopi.github.io/XjP/sitemap_index.txt
+Sitemap: https://ijafaopi.github.io/wIJ/sitemap_index.txt
